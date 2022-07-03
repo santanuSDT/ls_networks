@@ -1,5 +1,5 @@
 # ls_networks
-small social network API's 
+social network API's 
 
 After cloning the project from developer branch you just need to do 4 little things and those are:
 
